@@ -10,7 +10,7 @@
 <img src="https://img.icons8.com/color/45/000000/react-native.png"/>
 <img src="https://img.icons8.com/color/48/000000/vue-js.png"/> 
 <img src="https://img.icons8.com/dusk/45/000000/webpack.png"/>
-<img src="https://img.icons8.com/fluency/45/000000/node-js.png"/> 
+<!-- <img src="https://img.icons8.com/fluency/45/000000/node-js.png"/>  -->
 </div>
 
 ### My stats ...
