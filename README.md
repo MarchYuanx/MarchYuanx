@@ -3,11 +3,8 @@
 
 ### 🔭 Tech stack
 
-![Tech stack](https://skillicons.dev/icons?i=javascript,typescript,react,vue,webpack)
+![Tech stack](https://skillicons.dev/icons?i=javascript,typescript,react,vue,vite,webpack,nodejs)
 
-### 🚀 Leanring...
-
-![Tech stack](https://skillicons.dev/icons?i=nodejs,vite)
 
 ### My stats ...
 
