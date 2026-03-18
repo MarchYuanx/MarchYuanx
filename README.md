@@ -1,5 +1,20 @@
-### 👋 Hi there  I'm March Yuan
-- Front End Developer
+<!-- MarchYuanx profile -->
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=440&lines=March Yuan;AI+%26+Frontend+Developer"
+  />
+</p>
+
+
+
+## Hi, I'm March Yuan 👋
+
+AI · Agent · Frontend Engineering  
+Building practical tools and experimental agents.
+
+---
+
 
 ### 🔭 Tech stack
 
